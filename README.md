@@ -3,15 +3,15 @@ This project is yet to be used to create an env for android such that it can run
 | PROJECT BLUEPRINT |
 ---------------------
 
-[ ] Research about woking of scripts in linux
+[_] Research about woking of scripts in linux
 
-[ ] Find dependencies required to run scripts on linux
+[_] Find dependencies required to run scripts on linux
 
-[ ] Check if the required files are present in Android OS.
+[_] Check if the required files are present in Android OS.
 
-[ ] If not try to add Then .
+[_] If not try to add Then .
 
-[ ] if Build Pass Move on to next FACE_2
+[_] if Build Pass Move on to next FACE_2
 
 
 
